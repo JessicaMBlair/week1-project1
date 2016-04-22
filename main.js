@@ -110,5 +110,7 @@ alert("You are " + age + " years old! Congrats");
 
 var rec1 = 2;
 var rec2 = 3;
+var rectangle = rec1 * rec2;
 
 console.log(rec1 * rec2);
+console.log(rectangle);
