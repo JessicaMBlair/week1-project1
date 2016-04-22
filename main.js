@@ -102,3 +102,13 @@ console.log("Create an alert that uses the response from a prompt.");
 
 var sign = prompt("How old are you?");
 alert("You are " + age + " years old! Congrats");
+
+
+// 10. Create the formula to determine the area of a rectangle.
+//     The rectangle is: 2 inches by 3 inches
+// 11???
+
+var rec1 = 2;
+var rec2 = 3;
+
+console.log(rec1 * rec2);
